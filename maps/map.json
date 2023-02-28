@@ -3441,6 +3441,22 @@
                  "id":119,
                  "name":"jitsiSalle1",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"jitsiInterfaceConfig",
+                         "type":"string",
+                         "value":"{ \"DEFAULT_BACKGROUND\": \"#FF0000\" }"
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"jitsiSalle1"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":101,
@@ -3569,6 +3585,22 @@
                  "id":120,
                  "name":"jitsiSalle2",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"jitsiInterfaceConfig",
+                         "type":"string",
+                         "value":"{ \"DEFAULT_BACKGROUND\": \"#FF0000\" }"
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"jitsiSalle2"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":101,
@@ -3697,6 +3729,22 @@
                  "id":121,
                  "name":"jitsiSalle3",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"jitsiInterfaceConfig",
+                         "type":"string",
+                         "value":"{ \"DEFAULT_BACKGROUND\": \"#FF0000\" }"
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"jitsiSalle3"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":101,
@@ -3825,6 +3873,22 @@
                  "id":122,
                  "name":"jitsiSalle4",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"jitsiInterfaceConfig",
+                         "type":"string",
+                         "value":"{ \"DEFAULT_BACKGROUND\": \"#FF0000\" }"
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"jitsiSalle4"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":101,
@@ -3953,6 +4017,22 @@
                  "id":123,
                  "name":"jitsiSalle5",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"jitsiInterfaceConfig",
+                         "type":"string",
+                         "value":"{ \"DEFAULT_BACKGROUND\": \"#FF0000\" }"
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"jitsiSalle5"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":101,
@@ -4081,6 +4161,22 @@
                  "id":124,
                  "name":"jitsiSalle6",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"jitsiInterfaceConfig",
+                         "type":"string",
+                         "value":"{ \"DEFAULT_BACKGROUND\": \"#FF0000\" }"
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"jitsiSalle6"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":101,
@@ -4209,6 +4305,22 @@
                  "id":125,
                  "name":"jitsiSalle7",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"jitsiInterfaceConfig",
+                         "type":"string",
+                         "value":"{ \"DEFAULT_BACKGROUND\": \"#FF0000\" }"
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"jitsiSalle7"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":101,
@@ -4337,6 +4449,22 @@
                  "id":126,
                  "name":"jitsiSalle8",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"jitsiInterfaceConfig",
+                         "type":"string",
+                         "value":"{ \"DEFAULT_BACKGROUND\": \"#FF0000\" }"
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"jitsiSalle8"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":101,
@@ -4465,6 +4593,22 @@
                  "id":127,
                  "name":"jitsiSalle9",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"jitsiInterfaceConfig",
+                         "type":"string",
+                         "value":"{ \"DEFAULT_BACKGROUND\": \"#FF0000\" }"
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"jitsiSalle9"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":101,
@@ -4593,6 +4737,22 @@
                  "id":128,
                  "name":"jitsiSalle10",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"jitsiInterfaceConfig",
+                         "type":"string",
+                         "value":"{ \"DEFAULT_BACKGROUND\": \"#FF0000\" }"
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"jitsiSalle10"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":101,
@@ -4721,6 +4881,22 @@
                  "id":129,
                  "name":"jitsiAuditorium",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"jitsiInterfaceConfig",
+                         "type":"string",
+                         "value":"{ \"DEFAULT_BACKGROUND\": \"#FF0000\" }"
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"jitsiAuditorium"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":101,
@@ -4849,6 +5025,22 @@
                  "id":130,
                  "name":"jitsiCoaching1",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"jitsiInterfaceConfig",
+                         "type":"string",
+                         "value":"{ \"DEFAULT_BACKGROUND\": \"#FF0000\" }"
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"jitsiCoaching1"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":101,
@@ -4977,6 +5169,22 @@
                  "id":131,
                  "name":"jitsiCoaching2",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"jitsiInterfaceConfig",
+                         "type":"string",
+                         "value":"{ \"DEFAULT_BACKGROUND\": \"#FF0000\" }"
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"jitsiCoaching2"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":101,
@@ -5105,6 +5313,22 @@
                  "id":132,
                  "name":"jitsiCoaching3",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"jitsiInterfaceConfig",
+                         "type":"string",
+                         "value":"{ \"DEFAULT_BACKGROUND\": \"#FF0000\" }"
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"jitsiCoaching3"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":101,
@@ -5233,6 +5457,22 @@
                  "id":133,
                  "name":"jitsiCoaching4",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"jitsiInterfaceConfig",
+                         "type":"string",
+                         "value":"{ \"DEFAULT_BACKGROUND\": \"#FF0000\" }"
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"jitsiCoaching4"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":101,
@@ -5361,6 +5601,22 @@
                  "id":134,
                  "name":"jitsiCoaching5",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"jitsiInterfaceConfig",
+                         "type":"string",
+                         "value":"{ \"DEFAULT_BACKGROUND\": \"#FF0000\" }"
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"jitsiCoaching5"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":101,
