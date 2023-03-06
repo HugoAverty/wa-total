@@ -663,7 +663,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"{{{miro1}}}"
                         }, 
@@ -802,7 +802,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"{{{miro2}}}"
                         }, 
@@ -941,7 +941,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"{{{miro3}}}"
                         }, 
@@ -1080,7 +1080,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"{{{miro4}}}"
                         }, 
@@ -1219,7 +1219,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"{{{miro5}}}"
                         }, 
@@ -1358,7 +1358,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"{{{miro6}}}"
                         }, 
@@ -1497,7 +1497,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"{{{miro7}}}"
                         }, 
@@ -1636,7 +1636,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"{{{miro8}}}"
                         }, 
@@ -1775,7 +1775,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"{{{miro9}}}"
                         }, 
@@ -1914,7 +1914,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"{{{miro10}}}"
                         }, 
@@ -2053,7 +2053,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"{{{biblio1}}}"
                         }, 
@@ -2192,7 +2192,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"{{{biblio2}}}"
                         }, 
@@ -2331,7 +2331,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"{{{biblio3}}}"
                         }, 
@@ -2470,7 +2470,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"{{{biblio4}}}"
                         }, 
@@ -2609,7 +2609,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"{{{biblio5}}}"
                         }, 
@@ -2748,7 +2748,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"{{{biblio6}}}"
                         }, 
@@ -2887,7 +2887,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"{{{biblio7}}}"
                         }, 
@@ -3026,7 +3026,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"{{{biblio8}}}"
                         }, 
@@ -3165,7 +3165,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"{{{biblio9}}}"
                         }, 
@@ -3304,7 +3304,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"{{{biblio10}}}"
                         }, 
