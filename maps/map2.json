@@ -7886,12 +7886,12 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"TODO"
+         "value":"Total map for workshop"
         }, 
         {
          "name":"mapImage",
          "type":"string",
-         "value":"TODO"
+         "value":"map2.png"
         }, 
         {
          "name":"mapLink",
@@ -7901,7 +7901,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"TODO"
+         "value":"Total map for workshop"
         }, 
         {
          "name":"script",

@@ -10896,12 +10896,12 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"TODO"
+         "value":"Tota welcomel map"
         }, 
         {
          "name":"mapImage",
          "type":"string",
-         "value":"TODO"
+         "value":"map.png"
         }, 
         {
          "name":"mapLink",
@@ -10911,7 +10911,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"TODO"
+         "value":"Total map for workshop"
         }, 
         {
          "name":"script",
