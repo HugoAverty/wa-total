@@ -2903,7 +2903,7 @@
                         {
                          "name":"jitsiConfig",
                          "type":"string",
-                         "value":"{ \"startWithAudioMuted\": true,  \"startVideoMuted\": true }"
+                         "value":"{ \"startWithAudioMuted\": true,  \"startWithVideoMuted\": true }"
                         }, 
                         {
                          "name":"jitsiInterfaceConfig",
